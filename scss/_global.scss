@@ -1,0 +1,13 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+$font__primary: 'Bai Jamjuree', sans-serif;
+
+h1 {
+    font-family: $font__primary;
+}
