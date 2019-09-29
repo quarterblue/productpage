@@ -1,4 +1,5 @@
 html {
+    font-size: 100%;
     box-sizing: border-box;
 }
 
@@ -6,8 +7,8 @@ html {
     box-sizing: border-box;
 }
 
-$font__primary: 'Bai Jamjuree', sans-serif;
-
-h1 {
+body {
+    font-size: 1rem;
+    line-height: 1.3;
     font-family: $font__primary;
 }
